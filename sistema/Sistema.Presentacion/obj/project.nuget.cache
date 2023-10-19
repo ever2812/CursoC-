@@ -1,0 +1,23 @@
+{
+  "version": 2,
+  "dgSpecHash": "d/zGpDClXm8fqvBMq5lZW6YCIaUhR6XfRfToCrjY6cUbgqBlPYomwxq9vzGP2LTHzC5m+u6TNZz0KPwG45zeGg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Ever\\Documents\\cursoCS\\sistema\\Sistema.Presentacion\\Sistema.Presentacion.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Ever\\.nuget\\packages\\barcodelib\\2.4.0\\barcodelib.2.4.0.nupkg.sha512",
+    "C:\\Users\\Ever\\.nuget\\packages\\microsoft.bcl.asyncinterfaces\\5.0.0\\microsoft.bcl.asyncinterfaces.5.0.0.nupkg.sha512",
+    "C:\\Users\\Ever\\.nuget\\packages\\microsoft.reportingservices.reportviewercontrol.winforms\\150.1484.0\\microsoft.reportingservices.reportviewercontrol.winforms.150.1484.0.nupkg.sha512",
+    "C:\\Users\\Ever\\.nuget\\packages\\microsoft.sqlserver.types\\14.0.1016.290\\microsoft.sqlserver.types.14.0.1016.290.nupkg.sha512",
+    "C:\\Users\\Ever\\.nuget\\packages\\system.buffers\\4.5.1\\system.buffers.4.5.1.nupkg.sha512",
+    "C:\\Users\\Ever\\.nuget\\packages\\system.data.sqlclient\\4.8.3\\system.data.sqlclient.4.8.3.nupkg.sha512",
+    "C:\\Users\\Ever\\.nuget\\packages\\system.drawing.common\\5.0.2\\system.drawing.common.5.0.2.nupkg.sha512",
+    "C:\\Users\\Ever\\.nuget\\packages\\system.memory\\4.5.4\\system.memory.4.5.4.nupkg.sha512",
+    "C:\\Users\\Ever\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512",
+    "C:\\Users\\Ever\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\5.0.0\\system.runtime.compilerservices.unsafe.5.0.0.nupkg.sha512",
+    "C:\\Users\\Ever\\.nuget\\packages\\system.text.encodings.web\\5.0.1\\system.text.encodings.web.5.0.1.nupkg.sha512",
+    "C:\\Users\\Ever\\.nuget\\packages\\system.text.json\\5.0.2\\system.text.json.5.0.2.nupkg.sha512",
+    "C:\\Users\\Ever\\.nuget\\packages\\system.threading.tasks.extensions\\4.5.4\\system.threading.tasks.extensions.4.5.4.nupkg.sha512",
+    "C:\\Users\\Ever\\.nuget\\packages\\system.valuetuple\\4.5.0\\system.valuetuple.4.5.0.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,13 @@
+C:\Users\Ever\Documents\cursoCS\sistema\Sistema.Negocio\bin\Release\Sistema.Negocio.dll
+C:\Users\Ever\Documents\cursoCS\sistema\Sistema.Negocio\bin\Release\Sistema.Negocio.pdb
+C:\Users\Ever\Documents\cursoCS\sistema\Sistema.Negocio\bin\Release\Sistema.Datos.dll
+C:\Users\Ever\Documents\cursoCS\sistema\Sistema.Negocio\bin\Release\Sistema.Entidades.dll
+C:\Users\Ever\Documents\cursoCS\sistema\Sistema.Negocio\bin\Release\System.Data.SqlClient.dll
+C:\Users\Ever\Documents\cursoCS\sistema\Sistema.Negocio\bin\Release\Sistema.Datos.pdb
+C:\Users\Ever\Documents\cursoCS\sistema\Sistema.Negocio\bin\Release\Sistema.Entidades.pdb
+C:\Users\Ever\Documents\cursoCS\sistema\Sistema.Negocio\bin\Release\System.Data.SqlClient.xml
+C:\Users\Ever\Documents\cursoCS\sistema\Sistema.Negocio\obj\Release\Sistema.Negocio.csproj.AssemblyReference.cache
+C:\Users\Ever\Documents\cursoCS\sistema\Sistema.Negocio\obj\Release\Sistema.Negocio.csproj.CoreCompileInputs.cache
+C:\Users\Ever\Documents\cursoCS\sistema\Sistema.Negocio\obj\Release\Sistema.Negocio.csproj.CopyComplete
+C:\Users\Ever\Documents\cursoCS\sistema\Sistema.Negocio\obj\Release\Sistema.Negocio.dll
+C:\Users\Ever\Documents\cursoCS\sistema\Sistema.Negocio\obj\Release\Sistema.Negocio.pdb

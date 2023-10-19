@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
+  <metadata>
+    <id>Sistema.Presentacion</id>
+    <version>1.0.0</version>
+    <authors>Sistema.Presentacion</authors>
+    <description>Package Description</description>
+    <dependencies>
+      <group targetFramework=".NETFramework4.8">
+        <dependency id="Sistema.Negocio" version="1.0.0" exclude="Build,Analyzers" />
+        <dependency id="BarcodeLib" version="2.4.0" exclude="Build,Analyzers" />
+        <dependency id="Microsoft.ReportingServices.ReportViewerControl.Winforms" version="150.1484.0" exclude="Build,Analyzers" />
+        <dependency id="Microsoft.SqlServer.Types" version="14.0.1016.290" exclude="Build,Analyzers" />
+        <dependency id="System.Data.SqlClient" version="4.8.3" exclude="Build,Analyzers" />
+      </group>
+    </dependencies>
+  </metadata>
+  <files>
+    <file src="C:\Users\Ever\Documents\cursoCS\sistema\Sistema.Presentacion\bin\Debug\net48\Sistema.Presentacion.exe" target="lib\net48\Sistema.Presentacion.exe" />
+  </files>
+</package>

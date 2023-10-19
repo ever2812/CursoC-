@@ -1,0 +1,9 @@
+C:\Users\Ever\Documents\cursoCS\sistema\Sistema.Entidades\bin\Release\Sistema.Entidades.dll
+C:\Users\Ever\Documents\cursoCS\sistema\Sistema.Entidades\bin\Release\Sistema.Entidades.pdb
+C:\Users\Ever\Documents\cursoCS\sistema\Sistema.Entidades\bin\Release\System.Data.SqlClient.dll
+C:\Users\Ever\Documents\cursoCS\sistema\Sistema.Entidades\bin\Release\System.Data.SqlClient.xml
+C:\Users\Ever\Documents\cursoCS\sistema\Sistema.Entidades\obj\Release\Sistema.Entidades.csproj.AssemblyReference.cache
+C:\Users\Ever\Documents\cursoCS\sistema\Sistema.Entidades\obj\Release\Sistema.Entidades.csproj.CoreCompileInputs.cache
+C:\Users\Ever\Documents\cursoCS\sistema\Sistema.Entidades\obj\Release\Sistema.Entidades.csproj.CopyComplete
+C:\Users\Ever\Documents\cursoCS\sistema\Sistema.Entidades\obj\Release\Sistema.Entidades.dll
+C:\Users\Ever\Documents\cursoCS\sistema\Sistema.Entidades\obj\Release\Sistema.Entidades.pdb

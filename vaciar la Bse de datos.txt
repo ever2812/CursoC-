@@ -1,0 +1,45 @@
+Dejar en blanco la base de datos
+Si deseas dejar en Blanco la base de datos debes eliminar los registros en el siguiente orden:
+
+1. Eliminar registros de tabla maestro/detalle, ya que ninguna tabla depende de estas, pero estas si dependen de las demás.
+
+-- Eliminar registros de tabla maestro/detalle
+delete from detalle_venta;
+delete from venta;
+delete from detalle_ingreso;
+delete from ingreso;
+
+2. Eliminar registros de tablas dependientes.
+
+-- Eliminar registros de tablas dependientes
+delete from persona;
+delete from articulo;
+
+
+3. Eliminar por último los registros de tablas independientes, estos registros se eliminan en último lugar puesto que son referenciados por otras tablas.
+
+-- Eliminar registros de tablas independientes
+delete from categoria;
+
+
+4. Después de eliminar los registros podemos iniciar el valor de los campos identity de las tablas para que nuevamente comiencen en 1.
+
+--Reiniciando los campos autoincrements(identity)
+DBCC CHECKIDENT ('detalle_venta', RESEED, 1);  
+GO
+ 
+DBCC CHECKIDENT ('venta', RESEED, 1);  
+GO
+DBCC CHECKIDENT ('detalle_ingreso', RESEED, 1);  
+GO
+DBCC CHECKIDENT ('ingreso', RESEED, 1);  
+GO
+DBCC CHECKIDENT ('persona', RESEED, 1);  
+GO
+DBCC CHECKIDENT ('articulo', RESEED, 1);  
+GO
+DBCC CHECKIDENT ('categoria', RESEED, 1);  
+GO
+
+
+Todas estas secuencias sql las debes ejecutar en la ventana de consultas de Sql Server Management, recuerda primero seleccionar la base de datos correspondiente.
